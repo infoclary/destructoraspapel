@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://destructorasdepapel.com.co/index.php</loc> 
+		<lastmod>2016-03-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/encabezado.png</image:loc>
+    		<image:caption>mbm destroyit, kobra, formax, swingline, fellowes, hsm intimus,</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://http://destructorasdepapel.com.co/wp-content/themes/destructora/images/demo.png</image:loc>
+    		<image:caption>destructoras de papel</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/board.png</image:loc>
+    		<image:caption>trituradoras</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://http://destructorasdepapel.com.co/wp-content/themes/destructora/images/destructora.png</image:loc>
+    		<image:caption>destructora de papel</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/botton.png</image:loc>
+    		<image:caption>destructoras industriales</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/trituradora.png</image:loc>
+    		<image:caption>marcas de desturctoras de papel</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/cost.png</image:loc>
+    		<image:caption>cuanto vale una fotocopiadora</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/cost.png</image:loc>
+    		<image:caption>cuanto vale una destructora de papel</image:caption>
+    	</image:image>
+    	<image:image>
+    		<image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/bottom-logos.png</image:loc>
+    		<image:caption>trituradoras de papel</image:caption>
+    	</image:image>
+	</url>
+    <url>
+        <loc>http://destructorasdepapel.com.co/gracias</loc> 
+        <lastmod>2016-03-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/encabezado.png</image:loc>
+            <image:caption>mbm destroyit, kobra, formax, swingline, fellowes, hsm intimus,</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://http://destructorasdepapel.com.co/wp-content/themes/destructora/images/demo.png</image:loc>
+            <image:caption>destructoras de papel</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/board.png</image:loc>
+            <image:caption>trituradoras</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://http://destructorasdepapel.com.co/wp-content/themes/destructora/images/destructora.png</image:loc>
+            <image:caption>destructora de papel</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/botton.png</image:loc>
+            <image:caption>destructoras industriales</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/trituradora.png</image:loc>
+            <image:caption>marcas de desturctoras de papel</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://copiadorascolombia.co/wp-content/themes/foto/images/cost.png</image:loc>
+            <image:caption>cuanto vale una fotocopiadora</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/cost.png</image:loc>
+            <image:caption>cuanto vale una destructora de papel</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>http://destructorasdepapel.com.co/wp-content/themes/destructora/images/bottom-logos.png</image:loc>
+            <image:caption>trituradoras de papel</image:caption>
+        </image:image>
+    </url>
+</urlset>

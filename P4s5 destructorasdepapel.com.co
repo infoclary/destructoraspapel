@@ -1,0 +1,10 @@
+FTP Acces
+	Server = ftp.tablerointeractivo.info
+	Port = 21
+	User = destructorasdepapel@tablerointeractivo.info
+	Password = 9O5P$LMkk3lf
+
+Wordpress Admin
+	User = admin
+	Password = #jurJU1G$WiIIGkuM$
+	Panel = www.destructorasdepapel.com.co/wp-admin
